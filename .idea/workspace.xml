@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b4a8fa-d383-4de0-a51d-5ca9d56c9cbc" name="Default Changelist" comment="add img">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a0b4a8fa-d383-4de0-a51d-5ca9d56c9cbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <list id="8ff10fc2-cfa5-45dc-8c37-4ce1eeb1b0d3" name="add img" comment="add img" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568784679312</updated>
       <workItem from="1568784682797" duration="2365000" />
-      <workItem from="1569584959091" duration="1728000" />
+      <workItem from="1569584959091" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="add img">
       <created>1568784760955</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569587087666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1569587339945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569587339945</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add img" />
-    <option name="LAST_COMMIT_MESSAGE" value="add img" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="masterDetails">
     <states>
