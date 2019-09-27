@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b4a8fa-d383-4de0-a51d-5ca9d56c9cbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a0b4a8fa-d383-4de0-a51d-5ca9d56c9cbc" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cdn.iml" afterDir="false" />
     </list>
     <list id="8ff10fc2-cfa5-45dc-8c37-4ce1eeb1b0d3" name="add img" comment="add img" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +32,7 @@
   </component>
   <component name="ProjectId" id="1RQ2NHcr2fbUmei6HGoExgKOpEM" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568787731284" />
@@ -73,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568784679312</updated>
       <workItem from="1568784682797" duration="2365000" />
-      <workItem from="1569584959091" duration="2005000" />
+      <workItem from="1569584959091" duration="3466000" />
     </task>
     <task id="LOCAL-00001" summary="add img">
       <created>1568784760955</created>
@@ -110,7 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569587339945</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add">
+      <created>1569587474043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569587474043</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add">
+      <created>1569587495726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569587495726</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add">
+      <created>1569590729508</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569590729508</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
